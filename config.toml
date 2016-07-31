@@ -1,6 +1,6 @@
 contentdir = "content"
 layoutdir = "layouts"
-# publishdir = "public"
+publishdir = "public"
 baseurl = "http://loohawe.github.io/"
 languageCode = "en-us"
 title = "Luhao`s blog"
@@ -14,7 +14,7 @@ googleAnalytics = ""
     # Sets the meta tag description, usually reserved for the main page
     description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Future Imperfect"
+    navbarTitle          = "Lu Hao"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
@@ -44,11 +44,11 @@ googleAnalytics = ""
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Hugo Future Imperfect"
+    header    = "卢灏的博客"
 
-    paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "My eyes saw what you did in the park! <i class='fa fa-hand-peace-o'></i>"
 
-    about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+    about     = "关于"
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -60,7 +60,7 @@ googleAnalytics = ""
     circle    = false
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "luhao-alt"
 
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
@@ -89,7 +89,7 @@ googleAnalytics = ""
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
 [social]
-    github          = "jpescador"
+    github          = "loohawe"
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""
@@ -98,7 +98,7 @@ googleAnalytics = ""
     deviantart      = ""
     behance         = ""
     flickr          = ""
-    instagram       = ""
+    instagram       = "loohawe"
     youtube         = ""
     vimeo           = ""
     vine            = ""
